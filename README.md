@@ -36,7 +36,7 @@
 ---
 
 ## ☁️ Cloud, DevOps & Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-F2C94C?logo=cloudinary&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -47,12 +47,9 @@
 
 ---
 
-
 ## 🌐 Contact
 📧 **Email:** [benalayfarouk5@gmail.com](mailto:benalayfarouk5@gmail.com)  
 💬 **WhatsApp:** Available on request  
 💼 **LinkedIn:** [linkedin.com/in/farouk-ben-alaya](https://www.linkedin.com/in/farouk-ben-alaya/)  
 
 ---
-
-⭐️ *“Code, Learn, Deploy — Repeat.”*  
