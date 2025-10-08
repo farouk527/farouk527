@@ -48,11 +48,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Farouk's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaroukBenAlaya&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukBenAlaya&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Contact
 📧 **Email:** [benalayfarouk5@gmail.com](mailto:benalayfarouk5@gmail.com)  
