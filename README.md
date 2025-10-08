@@ -3,7 +3,7 @@
 🎓 Master’s degree in Computer Science  
 💼 Fullstack Developer at KM DISTRIBUTIONS  
 🌍 Based in France | Originally from Tunisia  
-💬 Languages: French 🇫🇷 | English 🇬🇧 | Arabic 🇹🇳  
+💬 Languages: French  | English  | Arabic   
 🚀 Web developer passionate about crafting scalable apps, automating deployments with Firebase and CI/CD, and improving Docker-based workflows.  
 
 ---
@@ -25,7 +25,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ---
 
