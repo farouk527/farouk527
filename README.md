@@ -54,12 +54,11 @@ I build scalable, maintainable web applications with a focus on clean architectu
 
 ---
 
-## 📊 GitHub Stats
+## ✨ About My Work
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fbenalaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fbenalaya&layout=compact&theme=tokyonight&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A9B1D6&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer+%F0%9F%9A%80;React+%7C+Angular+%7C+Node.js+%7C+Firebase;Clean+Architecture+%26+Scalable+Apps;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 </div>
 
@@ -68,3 +67,6 @@ I build scalable, maintainable web applications with a focus on clean architectu
 <div align="center">
 <sub>Open to new opportunities · Let's build something great together 🚀</sub>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2d2b55,50:1a1b27,100:0d1117&height=100&section=footer)
+
