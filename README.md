@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Farouk Ben Alaya
 
-🎓 Master’s degree in Computer Science, graduated from University of Western Brittany, France 
+🎓 Master’s degree in Computer Science, graduated from University of Western Brittany, France
+
 💼 Fullstack Web Developer at KM DISTRIBUTIONS  
 🌍 Based in France 
 💬 Languages: French  | English  | Arabic   
