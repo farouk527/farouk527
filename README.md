@@ -1,10 +1,20 @@
 # 👋 Hi, I'm Farouk Ben Alaya
 
-🎓 Master’s degree in Computer Science  
+🎓 Master’s degree in Computer Science, graduated from University of Western Brittany, France 
 💼 Fullstack Web Developer at KM DISTRIBUTIONS  
-🌍 Based in France | Originally from Tunisia  
+🌍 Based in France 
 💬 Languages: French  | English  | Arabic   
-🚀 Fullstack Web Developer, quickly learning and evolving, focused on building scalable applications, Dockerization, and deployment automation via CI/CD or GitOps. 
+🚀 Fullstack Web Developer, quickly learning and evolving, focused on building scalable and maintainable applications.
+Experienced with React, Angular & AngularJS, and backend development using Node.js, Express, and MongoDB.
+
+Strong background in REST API design, authentication systems, and real-time applications using Firebase Realtime Database (RTDB).
+Hands-on experience with Firebase Cloud Functions for serverless backend logic, automation, and event-driven architectures.
+
+Comfortable working with both NoSQL (MongoDB, Firebase RTDB) and SQL databases, designing efficient schemas and ensuring data consistency.
+
+Passionate about clean architecture, TypeScript development, performance optimization, and building intuitive user interfaces.
+
+Possess solid foundations in Docker containerization, with practical experience creating images, managing containers, and integrating applications into CI/CD pipelines (Azure DevOps) and Git-based deployment workflows.
 
 ---
 
